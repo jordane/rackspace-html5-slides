@@ -6,8 +6,8 @@ threadsafe: yes
 
 handlers:
 - url: /
-  static_files: template.html
-  upload: template\.html
+  static_files: jordane.html
+  upload: jordane\.html
 
 - url: /slide_config\.js
   static_files: slide_config.js
